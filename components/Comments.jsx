@@ -1,5 +1,5 @@
 import React, {useEffect, useState} from "react";
-import {getComments} from "../../services";
+import {getComments} from "../services";
 import moment from "moment";
 import parse from 'html-react-parser'
 
